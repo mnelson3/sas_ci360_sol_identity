@@ -1,5 +1,7 @@
 # SAS Customer Intelligence 360
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/mnelson3/sas_ci360_sol_identity/blob/main/LICENSE)
+
 ## SAS 360 SOLUTIONS
 
 <br>
